@@ -1,0 +1,6 @@
+[submodule "projects/form-extensions.js"]
+	path = projects/form-extensions.js
+	url = https://github.com/renaatdemuynck/form-extensions.js
+[submodule "projects/uniqueID"]
+	path = projects/uniqueID
+	url = https://github.com/renaatdemuynck/uniqueID
