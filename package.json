@@ -1,0 +1,12 @@
+{
+  "name": "renaatdemuynck.github.io",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "author": "Renaat De Muynck <renaat.demuynck@gmail.com>",
+  "homepage": "https://github.com/renaatdemuynck/renaatdemuynck.github.io#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renaatdemuynck/renaatdemuynck.github.io.git"
+  },
+  "main": "index.js"
+}
