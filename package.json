@@ -8,5 +8,12 @@
     "type": "git",
     "url": "git+https://github.com/renaatdemuynck/renaatdemuynck.github.io.git"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "devDependencies": {
+    "darko": "^0.3.6"
+  },
+  "scripts": {
+    "build": "darko build",
+    "watch": "darko serve --watch"
+  }
 }
